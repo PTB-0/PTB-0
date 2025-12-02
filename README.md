@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently a server hosting system<br> I’m currently learning PHP , JAVA , C , C++<br>
+ I’m currently a server hosting systems<br> I’m currently learning PHP , JAVA , C , C++ , JAVASCIPT and TYPESCRIPT<br>
 
 
 # 💻 Tech Stack:
@@ -13,3 +13,4 @@
 [![](https://visitcount.itsvg.in/api?id=PTB-0&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ngl very great tool -->
