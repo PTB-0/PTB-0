@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently a server hosting systems<br> I’m currently learning PHP , JAVA , C , C++ , JAVASCIPT and TYPESCRIPT<br>
+ I’m currently working on a server hosting system network o somethink like that<br> I’m currently learning PHP , JAVA , C , C++ , JAVASCIPT and TYPESCRIPT <br>  I really wanna lern Docker , linux , AI more deep. 
 
 
 # 💻 Tech Stack:
