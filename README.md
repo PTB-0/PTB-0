@@ -1,5 +1,6 @@
+NOW I AM USING MY SELF HOSTED GIT SO I BE NOT SO ACTIVE AROUND HERE
 # 💫 About Me:
- I’m currently working on a server hosting system network or something just like that<br> I’m currently learning PHP , JAVA , C , C++ , JAVASCIPT and TYPESCRIPT (ngl its so hard to do these together)<br>  I really wanna learn deeply in these : Docker , Linux (not only distros I wanna learn the kernel too) , AI networks and neroal networks 
+ I’m currently working on a server hosting system network or something just like that<br> I’m currently learning PHP , JAVA , C , C++ , JAVASCIPT and TYPESCRIPT (ngl its so hard to do these together)<br>  I really wanna learn deeply in these : Docker , Linux (not only distros I wanna learn the kernel too) , AI networks and neroal networks. 
 
  CODING SINCE AGE 9 <!--  a comment     -->
  
