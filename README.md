@@ -1,4 +1,4 @@
-NOW I AM USING MY SELF HOSTED GIT SO I BE NOT SO ACTIVE AROUND HERE
+NOW I AM USING MY SELF HOSTED GIT SO I wont be SO ACTIVE AROUND HERE :(
 # 💫 About Me:
  I’m currently working on a server hosting system network or something just like that<br> I’m currently learning PHP , JAVA , C , C++ , JAVASCIPT and TYPESCRIPT <br>  I really wanna learn deeply in these : Docker , Linux kernel , AI networks . 
 
