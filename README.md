@@ -12,6 +12,8 @@
 
   # Hey, I'm Ege 👋
 
+  ![Profile Views](https://komarev.com/ghpvc/?username=PTB-0&color=blueviolet&style=flat-square&label=Profile%20Views)
+
   **High school student shipping production software on my own infrastructure.**
 
   I wrote my first code at 9. In 2021 that turned into **PTB (ProjecTheBest)**  the name I build everything under.
@@ -83,10 +85,24 @@
 
   <!-- RN I am focusing on my frc team and prompt-Router -->
 
+  ## 🎓 Certifications
+
+  ![CS50x](https://img.shields.io/badge/CS50x-Intro%20to%20Computer%20Science-A51C30?style=flat-square)
+  ![CS50P](https://img.shields.io/badge/CS50P-Intro%20to%20Programming%20with%20Python-A51C30?style=flat-square&logo=python&logoColor=white)
+
+  - **CS50x** — Harvard's *Introduction to Computer Science*
+  - **CS50P** — Harvard's *Introduction to Programming with Python*
+
+  ## 🏆 GitHub Trophies
+
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PTB-0&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8)
+
   ## 📫 Reach me
 
   - **Email:** [ege@projecthebest.com](mailto:ege@projecthebest.com)
   - **Web:** [projecthebest.com](https://projecthebest.com)
   - **Git:** [git.projecthebest.com](https://git.projecthebest.com) — where the real activity is
+  - **Discord:** batybat
+  - **Steam:** .bat
 
 <!-- thanks for attention -->
