@@ -99,7 +99,7 @@
 
   ## 📫 Reach me
 
-  - **Email:** [ege@projecthebest.com](mailto:ege@projecthebest.com)
+  - **Email:** [ege@projecthebest.com](mailto:ege@projecthebest.com)  (The best way possible)
   - **Web:** [projecthebest.com](https://projecthebest.com)
   - **Git:** [git.projecthebest.com](https://git.projecthebest.com) where the real activity is
   - **Discord:** batybat (mostly I dont use discord!)
