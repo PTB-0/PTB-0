@@ -28,10 +28,8 @@
   | Project | What it is | Stack |
   |---|---|---|
   | **[Dloudos](https://github.com/PTB-0/dloudosWebsite)** · [**live** ↗](https://projecthebest.com) | Minecraft server hosting platform — Pterodactyl orchestration, FRP tunneling, token-based billing, live web console, mod marketplace. **Running in production.** ([docs](https://github.com/ProjecTheBest/DloudosDocs)) | Next.js 16 · TypeScript · Prisma · Dockers · Kubernetes |
-  | **[prompt-op](https://github.com/PTB-0/prompt-op)** | Prompt optimizer for Claude Code — refines your prompt through
-  a free LLM before it reaches the expensive one | TypeScript · OpenRouter |
-  | **[prompt-router](https://github.com/PTB-0/prompt-router)** | Routes prompts to the right AI: coding tasks → Claude
-  Code, simple questions → your local model | TypeScript |
+  | **[prompt-op](https://github.com/PTB-0/prompt-op)** | Prompt optimizer for Claude Code — refines your prompt through a free LLM before it reaches the expensive one | TypeScript · OpenRouter |
+  | **[prompt-router](https://github.com/PTB-0/prompt-router)** | Routes prompts to the right AI: coding tasks → Claude Code, simple questions → your local model | TypeScript |
 
   ## 🛠 Also building — on my own git
 
