@@ -88,10 +88,6 @@
   - **CS50x** — Harvard's *Introduction to Computer Science*
   - **CS50P** — Harvard's *Introduction to Programming with Python*
 
-  ## 🏆 GitHub Trophies
-
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PTB-0&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8)
-
   ## 📫 Reach me
 
   - **Email:** [ege@projecthebest.com](mailto:ege@projecthebest.com)  (The best way possible)
